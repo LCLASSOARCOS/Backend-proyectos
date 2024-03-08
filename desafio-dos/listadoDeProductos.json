@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Iphone 13",
+        "description":"256 gb",
+        "price":500,
+        "thumbnail":"SinFoto",
+        "code":"abc123",
+        "stock":40,
+        "id":1
+    },
+
+    {
+        "title":"Iphone 14",
+        "description":"128 gb",
+        "price":400,
+        "thumbnail":"SinFoto",
+        "code":"abc124",
+        "stock":20,
+        "id":2
+    },
+    
+    {
+        "title":"Iphone 15",
+        "description":"512 gb",
+        "price":30,
+        "thumbnail":"SiFoto",
+        "code":"abc126",
+        "stock":50,
+        "id":3
+    }
+
+]
